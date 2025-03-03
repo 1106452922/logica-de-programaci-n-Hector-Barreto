@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'señor usuario´digite su calificacion'
+5
+1
+16
+cal1, cal2, cal3
+6
+1
+8
+promedio
+18
+(cal1+cal2+cal3)/3
+7
+0
+1
+11
+promedio>=6
+4
+1
+13
+'no aceptado'
+13
+4
+1
+10
+'aceptado'
+13
+1

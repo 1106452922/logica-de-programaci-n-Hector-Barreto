@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'bienvenido'
+4
+1
+41
+'porfavor inserte el precio del producto'
+5
+1
+6
+precio
+7
+0
+1
+10
+precio>500
+4
+1
+30
+'su valor a pagar es: ',precio
+13
+6
+2
+3
+des
+10
+precio*0.5
+1
+t
+10
+precio-des
+4
+1
+23
+'su valor a pagar es',t
+13
+1

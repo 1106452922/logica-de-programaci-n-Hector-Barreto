@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+130
+'Señor usuario usuario, por favor digite la materia que se le complique ponga 1 si es matematicas y ponga 2 catedra institucional'
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 1
+7
+0
+1
+13
+respuesta = 2
+4
+1
+7
+'error'
+13
+4
+1
+62
+'la materia que más se le dificultad es catedra institucional'
+13
+13
+4
+1
+52
+'la materia que más se le dificultad es matematicas'
+13
+1
