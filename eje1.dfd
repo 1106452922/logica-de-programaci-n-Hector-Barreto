@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'porfavor digite el precio de cada producto comprado'
+5
+1
+5
+p1,p2
+6
+3
+4
+des1
+13
+p1 - (p1*0.1)
+4
+des2
+13
+p2 - (p1*0.2)
+2
+td
+9
+des1+des2
+4
+1
+25
+'su total a pagar es:',td
+1

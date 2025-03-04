@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'porfavor digite el valor de su compra'
+5
+1
+6
+compra
+4
+1
+54
+'porfavor digite su sexo, 1 para hombre, 2 para mujer'
+5
+1
+4
+sexo
+6
+1
+7
+limited
+6
+100000
+7
+0
+1
+14
+compra>limited
+13
+7
+0
+1
+6
+sexo=1
+6
+1
+4
+des2
+19
+compra-(compra*0.1)
+4
+1
+28
+'su valor a pagar es: ',des2
+13
+6
+1
+4
+des1
+19
+compra-(compra*0.2)
+4
+1
+29
+' su valor a pagar es: ',des1
+13
+13
+1
